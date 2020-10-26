@@ -30,5 +30,5 @@ The main goal is to build a front end for a simple basci bot.Which takes an expr
 
 
 ## Repl link
-![](https://repl.it/@VamsiCheruku/WEEK2#script.js)
+![Repel Link](https://repl.it/@VamsiCheruku/WEEK2#script.js)
 
