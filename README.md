@@ -13,7 +13,7 @@ The main goal is to build a front end for a simple basci bot.Which takes an expr
 - ***It takes an expression and evaluates it*** 
     
 ## Block diagram
-
+![](https://github.com/Vamsi-027/ML2021_WEEK2/blob/main/image/1603727928545.jpg)
 
 ## Coding
 - We have created frontend for  this chatbot by writing  [html](https://github.com/Vamsi-027/ML2021_WEEK2/blob/main/index.html) file. In which we have created a structure for out bot.Its a very basic html code anyone can easily understand.
