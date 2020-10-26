@@ -16,9 +16,9 @@ The main goal is to build a front end for a simple basci bot.Which takes an expr
 
 
 ## Coding
-- We have created frontend for  this chatbot by writing  [html](http://learncodeonline.in/mascot.png) file. In which we have created a structure for out bot.
-- In [css]() file we have styled your html file.
-- In [JavaScript]() ,file we have implemented the evaluate function.
+- We have created frontend for  this chatbot by writing  [html](https://github.com/Vamsi-027/ML2021_WEEK2/blob/main/index.html) file. In which we have created a structure for out bot.Its a very basic html code anyone can easily understand.
+- In [css](https://github.com/Vamsi-027/ML2021_WEEK2/blob/main/style.css) file we have styled your html file.
+- In [JavaScript](https://github.com/Vamsi-027/ML2021_WEEK2/blob/main/script.js) ,file we have implemented the evaluate function to evaluate given expression and scroll function to scroll automatically whenever there a need to scroll down.i.e, it scrolls down automatically when user enters an expression.
     
 
 ## References and Tools
